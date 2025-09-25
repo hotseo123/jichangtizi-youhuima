@@ -1,2 +1,43 @@
-# jichangtizi-youhuima
-一个最新机场优惠码汇总合集，已经更新到2025年9月，每个月都会及时更新，最高享75折优惠，最低享9折优惠，关注我们未来会更新更多机场优惠码。
+# 2025年9月最新机场梯子优惠码汇总 - 国庆中秋双节特惠活动来袭！
+
+一个最新机场优惠码汇总合集，已经更新到2025年9月，每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/368af736-57b7-4301-a75e-fd3983ff756e" />
+
+
+## 📌 项目简介
+
+- 这里收录了各大机场梯子提供的 **限时优惠码**、**长期折扣** 和 **节日活动**。  
+- 信息会不定期更新，确保尽量保持最新。  
+- 旨在让大家少踩坑、找到适合自己的稳定服务。
+
+## 💡 最新优惠码汇总
+
+| 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
+|--------|--------|----------|----------|------|------|
+| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过6+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
+| CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
+| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
+| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
+| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
+| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
+| **一云梯机场** | 25GQ20OFF <br> 25GQ25OFF |  2025年10月21|国庆中秋：月/季/半年/年付8折<br>两年/三年付8折  |[点击直达官网地址](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)|
+| **飞鸟机场**  | fb25100185 <br /> fb25100180 2025年10月16|    |国庆中秋：月/季/半年付85折<br>年付8折    |  [点击直达官网地址](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC)|
+| **鹿语云机场** | luyu85     | 2025年10月15| 国庆中秋：月/季/半年付85折<br>年付8折   | [点击直达官网地址](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)|
+
+## 🎯 如何使用优惠码
+
+1. 在机场官网注册账户。  
+2. 进入「套餐购买」页面，选择想要的订阅时长。  
+3. 在结算页面输入优惠码（如有），确认折扣是否生效。  
+4. 付款完成后即可在客户端配置订阅使用。
+   
+## 🛡️ 机场选择建议
+
+- **不要只看价格**：过低的价格往往意味着不稳定。  
+- **测试很重要**：先买月付或小流量包试用，避免一次性投入太多。  
+- **关注口碑**：选择有一定用户基础和口碑的服务商，售后更有保障。  
+- **理性使用**：长期稳定性难以保证，请随时准备备用方案。
+- **优先选择老牌机场**：老牌机场服务更稳定，跑路的风险小。
