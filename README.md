@@ -20,7 +20,7 @@
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 |  CyberGuard机场11月重磅优惠来袭 | |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
+| **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 | - | CyberGuard机场11月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 
 
 ## 🎯 如何使用机场优惠码?
