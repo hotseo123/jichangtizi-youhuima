@@ -1,6 +1,6 @@
-# 2025年10月最新机场梯子优惠码汇总 - 国庆中秋双节特惠活动来袭！
+# 2025年11月最新机场梯子优惠码汇总 
 
-一个最新机场优惠码汇总合集，已经更新到2025年10月，国庆中秋双节特惠活动来袭！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
+一个最新机场优惠码汇总合集，已经更新到2025年11月，国庆中秋双节特惠活动来袭！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
 
 <img width="424" height="382" alt="image" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
 
@@ -20,13 +20,10 @@
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| **一云梯机场** | 25GQ20OFF <br> 25GQ25OFF |  2025年10月21|国庆中秋：月/季/半年/年付8折<br>两年/三年付8折 | |[点击直达官网地址](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)|
-| **飞鸟机场**  | fb25100185 <br /> fb25100180 | 2025年10月16| 国庆中秋：月/季/半年付85折<br>年付8折  |  |[点击直达官网地址](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC)|
-| **鹿语云机场** | luyu85     | 2025年10月15| 国庆中秋：月/季/半年付85折<br>年付8折 |   | [点击直达官网地址](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)|
-| **SledCloud雪橇云VPN** | SLED-KEEPYEAR     | 2025年10月8| 国庆中秋：年付8折 |   | [点击直达官网地址](https://net.sled.lol/#/register?code=TkO6RxBp)|
-| **龙猫云** | to80     | 2025年10月20| 国庆中秋：年付8折 |   | [点击直达官网地址](https://inv05.lmaff01.cc/register?aff=QcjxTWLN)|
+| **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 |  CyberGuard机场11月重磅优惠来袭 | |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 
-## 🎯 如何使用优惠码
+
+## 🎯 如何使用机场优惠码?
 
 1. 在机场官网注册账户。  
 2. 进入「套餐购买」页面，选择想要的订阅时长。  
