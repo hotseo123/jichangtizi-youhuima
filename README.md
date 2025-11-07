@@ -1,6 +1,6 @@
 # 2025年11月最新机场梯子优惠码汇总 - 双十一活动来了！
 
-一个最新机场优惠码汇总合集，已经更新到2025年11月，双十一活动来了，优惠码最低可享9折优惠，最高享75折优惠！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
+一个最新机场优惠码汇总合集，已经更新到2025年11月，双十一活动来了，双十一狂欢特惠，优惠码最低可享9折优惠，最高享75折优惠！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
 
 <img width="424" height="382" alt="image" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
 
@@ -20,11 +20,11 @@
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 | - | CyberGuard机场11月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
+| **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 | 全场 | CyberGuard机场11月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | **奈云【推荐】**         | 7折   | **1111**       | 2025年11月21日 | [官网直达链接 |
-| **一云梯** | 8折   | ** 251120OFF** | 2025年11月30日  |[官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 可重复使用5次              |
-| **肥猫云** | 8折   | fat111180 | 2025年11月30日  |[官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 老牌机场，续费率高              |
-| **疾风云** | 7折   | JF1111 | 2025年11月30日  |[官网直达链接](https://jif637.net?code=Vtgm)| 双十一狂欢特惠              |
+| **一云梯** | 8折   | **251120OFF** | 2025年11月30日 可重复使用5次              | |[官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
+| **肥猫云** | 8折   | fat111180 | 2025年11月30日 | 老牌机场，续费率高              | |[官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)
+| **疾风云** | 7折   | JF1111 | 2025年11月30日 | 双十一狂欢特惠              | |[官网直达链接](https://jif637.net?code=Vtgm)
 
 ## 🎯 如何使用机场优惠码?
 
