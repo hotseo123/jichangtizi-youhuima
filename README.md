@@ -21,8 +21,8 @@
 | **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 | 全场 | CyberGuard机场11月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | **奈云【推荐】**  | **1111**       | 2025年11月21日        | 7折  | 优惠力度大 | [官网直达链接](https://www.v2ny.me/?path=register&code=RRJkLoeU)  |
 | **一云梯** | **251120OFF** | 2025年11月30日 | 8折|可重复使用5次         |[官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
-| **肥猫云** | fat111180 | 2025年11月30日 | 8折   | 老牌机场，续费率高              | |[官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)
-| **疾风云** | JF1111 | 2025年11月30日 | 7折    | 双十一狂欢特惠              | |[官网直达链接](https://jif637.net?code=Vtgm)
+| **肥猫云** | fat111180 | 2025年11月30日 | 8折   | 老牌机场，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF) |
+| **疾风云** | JF1111 | 2025年11月30日 | 7折    | 双十一狂欢特惠              | [官网直达链接](https://jif637.net?code=Vtgm) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 
