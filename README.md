@@ -1,6 +1,6 @@
 # 2025年11月最新机场梯子优惠码汇总 - Black Friday黑色星期五活动来了！
 
-一个最新机场优惠码汇总合集，已经更新到2025年11月，Black Friday黑色星期五活动来了，优惠码最低可享9折优惠，最高享75折优惠！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
+一个最新机场优惠码汇总合集，已经更新到2025年12月，Black Friday黑色星期五活动来了，优惠码最低可享9折优惠，最高享75折优惠！每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，帮助大家省钱入手优质的科学上网服务。 
 
 <img width="424" height="382" alt="image" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
 
@@ -11,7 +11,7 @@
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | 直接扣减 |  2025 年 12 月 1 日 23:59 | 新购或续费 1 年服务享受 7 折优惠，2 年服务享受 65 折，3 年服务则享有 6 折优惠。 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
-| 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 老牌机场，服务时长超过6+ | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
+| 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | **CyberGuard机场** | CGSEASON15 <br> CGYEAR20 | 全场 | CyberGuard机场11月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
