@@ -9,7 +9,7 @@
 
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
-| 奈云机场 | `11meigui` | 2025年12月31日 23:59 | 全场88折 | 奈云双十二优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `1212` | 2025年12月31日 23:59 | 全场88折 | 奈云双十二优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
