@@ -10,18 +10,19 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
+| 奈云机场 | `1212` | 2025年12月31日 23:59 | 全场88折 | 奈云双十二优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | **肥猫云**  | hello202685 | 2026年1月21日 | 85折   |感恩回馈，双旦季特惠来袭！月付/季度/半年，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
 | **肥猫云** | hello202680 | 2026年1月21日 | 8折    |感恩回馈，双旦季特惠来袭！年付/年付以上，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
 | **一云梯**  | ** 25YD20OFF** | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
 | **一云梯** | ** 25YD25OFF** | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
-| 奈云机场 | `1212` | 2025年12月31日 23:59 | 全场88折 | 奈云双十二优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
-| CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | **CyberGuard机场** | CGDEC90 <br> CGYEAR75 | 全场 | CyberGuard机场12月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | 闪电猫机场 | `80sc` | 2025年12月31日 23:59 | 8折优惠码 | 双十二优惠活动，新老用户 | [点击直达官网](https://webinv02.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
+| 【一云梯】  | `25YD20OFF` | 2026年01月26日 23:59 | 全场8折 | 双蛋超值优惠活动开启！| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
 
 ## 🎯 如何使用机场优惠码?
 
