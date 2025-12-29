@@ -23,11 +23,11 @@
 | 闪电猫机场 | `80sc` | 2025年12月31日 23:59 | 8折优惠码 | 双十二优惠活动，新老用户 | [点击直达官网](https://webinv02.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 红杏云机场 | `hx2025` | 截止2025-12-31 | 8折优惠码 | 新用户 | [点击直达官网](https://www.hongxingdl.com/web/#/login?code=QhIuhCJV) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| 龙猫云机场  | `totoro852026` |2026年1月25号23:59 | 全场85折 | 月付/季度付/半年付：85折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
-| 龙猫云机场  | `totoro802026` |2026年1月25号23:59 | 全场8折 | 年付/2年/3年付：8折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro852026` |2026年1月25号23:59 | 85折 | 月付/季度付/半年付：85折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro802026` |2026年1月25号23:59 | 8折 | 年付/2年/3年付：8折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
 | anyland机场  | `2026` |2026年1月3号23:59 | 全场85折 | 2026元旦活动，年付送Google AI Pro独立账号| [点击直达官网](https://anyland.club/#/register?code=L7IPVJTH) |
-| 疾风云机场  | `JF1111` |2026年12月31号 | 全场7折 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云机场  | `JF888` |2026年12月31号 | 全场9折折 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 
