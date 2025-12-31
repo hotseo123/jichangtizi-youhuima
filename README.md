@@ -30,8 +30,10 @@
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
+| 赔钱机场  | `元旦快乐` |2026年1月5日23点59分| 75折 | 全场适用| [点击直达官网](https://xn--cp3a08l.com/#/register?code=RJXPmRBE) |
 
 
+如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
 ## 🎯 如何使用机场优惠码?
 
