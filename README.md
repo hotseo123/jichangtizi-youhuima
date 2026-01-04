@@ -3,7 +3,7 @@
 一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年1月，元旦和圣诞双旦活动来袭，各大机场都开始年底促销，有需要的朋友可以关注下，部分机场站内活动叠加，最低至48折! 每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，也会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
 <p align="center">
-<img width="424" height="382" alt="image" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
+<img width="424" height="382" alt="最新机场梯子优惠码汇总" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
 </p>
 
 ## 💡 最新优惠码汇总
@@ -13,6 +13,7 @@
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 奈云机场 | `1212` | 2025年12月31日 23:59 | 全场88折 | 奈云双十二优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://net.sled.lol/#/register?code=TkO6RxBp) |
 | **肥猫云**  | hello202685 | 2026年1月21日 | 85折   |感恩回馈，双旦季特惠来袭！月付/季度/半年，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
 | **肥猫云** | hello202680 | 2026年1月21日 | 8折    |感恩回馈，双旦季特惠来袭！年付/年付以上，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
 | **一云梯**  | `25YD20OFF` | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
