@@ -15,10 +15,10 @@
 | 奈云机场 | `11meigui` | 长期有效| 全场8折 | 优惠码专享活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://net.sled.lol/#/register?code=TkO6RxBp) |
-| **肥猫云**  | hello202685 | 2026年1月21日 | 85折   |感恩回馈，双旦季特惠来袭！月付/季度/半年，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
-| **肥猫云** | hello202680 | 2026年1月21日 | 8折    |感恩回馈，双旦季特惠来袭！年付/年付以上，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
-| **一云梯**  | `25YD20OFF` | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
-| **一云梯** | `25YD25OFF` | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
+| 肥猫云  | hello202685 | 2026年1月21日 | 85折   |感恩回馈，双旦季特惠来袭！月付/季度/半年，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
+| 肥猫云 | hello202680 | 2026年1月21日 | 8折    |感恩回馈，双旦季特惠来袭！年付/年付以上，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
+| 一云梯  | `25YD20OFF` | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
+| 一云梯 | `25YD25OFF` | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | **CyberGuard机场** | CGDEC90 <br> CGYEAR75 | 全场 | CyberGuard机场12月重磅优惠来袭 | - |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
@@ -31,6 +31,9 @@
 | 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 赔钱机场  | `元旦快乐` |2026年1月5日23点59分| 75折 | 全场适用| [点击直达官网](https://xn--cp3a08l.com/#/register?code=RJXPmRBE) |
+| 青云梯机场   | `0080` |2026年1月31日23点59分| 8折 | 全场适用| [点击直达官网](https://qytcc01a.qingyunti.pro/register?aff=hZe1CXIo) |
+
+
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
