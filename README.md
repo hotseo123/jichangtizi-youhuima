@@ -11,7 +11,7 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
-| 奈云机场 | `0101` | 2026年1月31日 23:59 | 全场75折 | 奈云元旦活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `0101` | 2026年1月31日23点59分 | 全场75折 | 奈云元旦活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `11meigui` | 长期有效| 全场8折 | 优惠码专享活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://net.sled.lol/#/register?code=TkO6RxBp) |
@@ -24,14 +24,13 @@
 | CyberGuard机场 | `CGYEAR2026` | 2026年1月31日23点59分 | 年付全场75折 | CyberGuard机场2026开年福利 |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | CyberGuard机场 | `CGJAN90` | 2026年1月31日23点59分| 月付/季付/半年付 全场9折| CyberGuard机场2026开年福利|[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| 龙猫云机场  | `totoro852026` |2026年1月25号23:59 | 85折 | 月付/季度付/半年付：85折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
-| 龙猫云机场  | `totoro802026` |2026年1月25号23:59 | 8折 | 年付/2年/3年付：8折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro852026` |2026年1月25号23点59分 | 85折 | 月付/季度付/半年付：85折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro802026` |2026年1月25号23点59分 | 8折 | 年付/2年/3年付：8折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
 | anyland机场  | `2026` |2026年1月3号23:59 | 全场85折 | 2026元旦活动，年付送Google AI Pro独立账号| [点击直达官网](https://anyland.club/#/register?code=L7IPVJTH) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
-| 赔钱机场  | `元旦快乐` |2026年1月5日23点59分| 75折 | 全场适用| [点击直达官网](https://xn--cp3a08l.com/#/register?code=RJXPmRBE) |
 | 青云梯机场   | `0080` |2026年1月31日23点59分| 8折 | 全场适用| [点击直达官网](https://qytcc01a.qingyunti.pro/register?aff=hZe1CXIo) |
 
 
