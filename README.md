@@ -3,7 +3,7 @@
 一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年1月，元旦和圣诞双旦活动来袭，各大机场都开始年底促销，有需要的朋友可以关注下，部分机场站内活动叠加，最低至48折! 每个月都会及时更新，最高享75折优惠，最低享9折优惠，本仓库持续整理和更新各大机场（翻墙服务商）的最新优惠活动与折扣码，也会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
 <p align="center">
-<img width="424" height="382" alt="最新机场梯子优惠码汇总" src="https://github.com/user-attachments/assets/b91201e5-c346-4e0e-988a-d1a542ebeecb" />
+   <img width="1440" height="180" alt="2026最新机场梯子优惠码汇总" src="https://github.com/user-attachments/assets/bf3db306-3b8b-41c5-987a-4e9d90f182df" />
 </p>
 
 ## 💡 最新优惠码汇总
