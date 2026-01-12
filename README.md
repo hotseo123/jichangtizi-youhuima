@@ -10,7 +10,7 @@
 
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
-| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
+| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 奈云机场 | `0101` | 2026年1月31日23点59分 | 全场75折 | 奈云元旦活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `11meigui` | 长期有效| 全场8折 | 优惠码专享活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
