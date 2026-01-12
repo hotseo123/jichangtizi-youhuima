@@ -32,24 +32,23 @@
 | 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 青云梯机场   | `0080` |2026年1月31日23点59分| 8折 | 全场适用| [点击直达官网](https://qytcc01a.qingyunti.pro/register?aff=hZe1CXIo) |
-
-
+| 尔湾云机场   | `ss12` |2026年1月31日23点59分| 7折 | 老用户续费同享优惠 | [点击直达官网](https://ewanwtt.net/auth/register?code=1BK8u2) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
 ## 🎯 如何使用机场优惠码?
 
-1. 在机场官网注册账户。  
-2. 进入「购买订阅」页面，选择想要的订阅时长，如下图。
+1. 在机场官网注册账户。
+2. 
+3. 进入「购买订阅」页面，选择想要的订阅时长，如下图。
 
-<img width="1254" height="526" alt="image" src="https://github.com/user-attachments/assets/8a6279f0-5eb4-48f7-a773-d175b25364d6" />
+<img width="1254" height="526" alt="购买订阅" src="https://github.com/user-attachments/assets/8a6279f0-5eb4-48f7-a773-d175b25364d6" />
 
    
 4. 在结算页面一般都有一个优惠码输入框，在输入框中输入优惠码，点击验证，即可看到优惠的金额，如下图
 
-<img width="1011" height="543" alt="image" src="https://github.com/user-attachments/assets/5a1575db-0865-49e8-96f7-9b1246518219" />
-
+<img width="1011" height="543" alt="输入框中输入优惠码" src="https://github.com/user-attachments/assets/5a1575db-0865-49e8-96f7-9b1246518219" />
    
 6. 付款完成后即可在客户端配置订阅使用。
    
