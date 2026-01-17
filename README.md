@@ -33,6 +33,7 @@
 | 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 青云梯机场   | `0080` |2026年1月31日23点59分| 8折 | 全场适用| [点击直达官网](https://qytcc01a.qingyunti.pro/register?aff=hZe1CXIo) |
 | 尔湾云机场   | `ss12` |2026年1月31日23点59分| 7折 | 老用户续费同享优惠 | [点击直达官网](https://ewanwtt.net/auth/register?code=1BK8u2) |
+| 扬帆云   | - | 长期有效| 7折 | 无需优惠码，年付7折自动抵扣 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
