@@ -22,8 +22,8 @@
 | CyberGuard机场 | `CGYEAR2026` | 2026年1月31日23点59分 | 年付全场75折 | CyberGuard机场2026开年福利 |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | CyberGuard机场 | `CGJAN90` | 2026年1月31日23点59分| 月付/季付/半年付 全场9折| CyberGuard机场2026开年福利|[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| 龙猫云机场  | `totoro852026` |2026年1月25号23点59分 | 85折 | 月付/季度付/半年付：85折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
-| 龙猫云机场  | `totoro802026` |2026年1月25号23点59分 | 8折 | 年付/2年/3年付：8折优惠| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro852026` |2026年1月31号 | 85折 | 月付/季度付/半年付：85折优惠(活动延期)| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
+| 龙猫云机场  | `totoro802026` |2026年1月31号 | 8折 | 年付/2年/3年付：8折优惠(活动延期)| [点击直达官网](https://inv02.1ytaff.com/register?aff=SDLqPWZ7) |
 | anyland机场  | `2026` |2026年1月3号23:59 | 全场85折 | 2026元旦活动，年付送Google AI Pro独立账号| [点击直达官网](https://anyland.club/#/register?code=L7IPVJTH) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
