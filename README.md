@@ -19,6 +19,7 @@
 | 一云梯 | `25YD25OFF` | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | CyberGuard机场 | `CGYEAR2026` | 2026年1月31日23点59分 | 年付全场75折 | CyberGuard机场2026开年福利 |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | CyberGuard机场 | `CGJAN90` | 2026年1月31日23点59分| 月付/季付/半年付 全场9折| CyberGuard机场2026开年福利|[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
