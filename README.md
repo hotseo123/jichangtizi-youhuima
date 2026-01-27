@@ -41,17 +41,18 @@
 ## 🎯 如何使用机场优惠码?
 
 1. 在机场官网注册账户。
-2. 
+2. 登陆机场进入机场官网
 3. 进入「购买订阅」页面，选择想要的订阅时长，如下图。
 
 <img width="1254" height="526" alt="购买订阅" src="https://github.com/user-attachments/assets/8a6279f0-5eb4-48f7-a773-d175b25364d6" />
-
    
 4. 在结算页面一般都有一个优惠码输入框，在输入框中输入优惠码，点击验证，即可看到优惠的金额，如下图
 
 <img width="1011" height="543" alt="输入框中输入优惠码" src="https://github.com/user-attachments/assets/5a1575db-0865-49e8-96f7-9b1246518219" />
    
-6. 付款完成后即可在客户端配置订阅使用。
+5. 付款完成后即可在客户端配置订阅使用， 在我的订阅中可以根据自己的客户端点击导入配置。
+
+<img width="1299" height="212" alt="机场客户端" src="https://github.com/user-attachments/assets/70ac5b3f-0156-440e-87d1-be4c422abadd" />
    
 ## 🛡️ 机场选择建议
 
