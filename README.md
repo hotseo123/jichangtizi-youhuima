@@ -16,8 +16,6 @@
 | 奈云机场 | `11meigui` | 长期有效| 全场8折 | 优惠码专享活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
-| 一云梯  | `25YD20OFF` | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
-| 一云梯 | `25YD25OFF` | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
@@ -35,6 +33,8 @@
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 肥猫云  | hello202685 | 2026年1月25日 | 85折   | 月付/季度/半年，续费率高             | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
 | 肥猫云 | hello202680 | 2026年1月25日 | 8折    | 年付/年付以上，续费率高              | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
+| 一云梯  | `25YD20OFF` | 2026年1月25日23点59分 | 8折   | 一云梯双旦超优惠活动！月/季/半年/年付 8折（配合站内折上折，高达6.4折）           | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
+| 一云梯 | `25YD25OFF` | 2026年1月25日23点59分 | 75折    |一云梯双旦超优惠活动！两年/三年付 75折（配合站内折上折，高达4.5折）          | [官网直达链接](https://inv02.1ytaff.com/register?aff=SDLqPWZ7)| 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
