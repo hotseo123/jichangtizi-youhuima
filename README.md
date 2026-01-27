@@ -21,7 +21,7 @@
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 扬帆云   | `clashx.cc` | 长期有效| 7折 | 无需优惠码，年付7折自动抵扣 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | CyberGuard机场 | `CGYEAR2026` | 2026年1月31日23点59分 | 年付全场75折 | CyberGuard机场2026开年福利 |[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | CyberGuard机场 | `CGJAN90` | 2026年1月31日23点59分| 月付/季付/半年付 全场9折| CyberGuard机场2026开年福利|[点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0)|
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
