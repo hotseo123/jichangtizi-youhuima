@@ -11,6 +11,7 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
 | 奈云机场 | `0101` | 2026年1月31日23点59分 | 全场75折 | 奈云元旦活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `11meigui` | 长期有效| 全场8折 | 优惠码专享活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
@@ -32,11 +33,8 @@
 | 尔湾云机场   | `ss12` |2026年1月31日23点59分| 7折 | 老用户续费同享优惠 | [点击直达官网](https://ewanwtt.net/auth/register?code=1BK8u2) |
 | 扬帆云   | - | 长期有效| 7折 | 无需优惠码，年付7折自动抵扣 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
-| 肥猫云  | hello202685 | 2026年1月21日 | 85折   | 月付/季度/半年，续费率高             | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
-| 肥猫云 | hello202680 | 2026年1月21日 | 8折    | 年付/年付以上，续费率高              | [官网直达链接](https://inv02.fatcatcloud.cc/register?aff=q0NtEJIF)| 
-| 飞鸟机场  | `fb250085` |2026年1月20日23点59分| 月/季/半年付 85折  | 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
-| 飞鸟机场  | `fb250080` |2026年1月20日23点59分| 年付8折 | 站内折上折，高达64折 可重复使用5次| [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
-
+| 肥猫云  | hello202685 | 2026年1月25日 | 85折   | 月付/季度/半年，续费率高             | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
+| 肥猫云 | hello202680 | 2026年1月25日 | 8折    | 年付/年付以上，续费率高              | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
