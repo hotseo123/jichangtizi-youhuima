@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/hotseo123/jichangtizi-youhuima?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/hotseo123/jichangtizi-youhuima?style=flat-square" />
-  ![License](https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima?style=flat-square)
+   ![License](https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima?style=flat-square)
 </p>
 
 <p align="center">
