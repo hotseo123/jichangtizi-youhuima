@@ -3,6 +3,17 @@
 一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年1月，元旦和圣诞双旦活动来袭，各大机场都开始年底促销，有需要的朋友可以关注下，部分机场加上之前的站内活动叠加，最低至48折! 本仓库会每个月都会及时更新，当前最高享48折优惠，最低享9折优惠，持续整理和更新各大机场（翻墙服务商）的最新优惠活动与优惠码，也同时会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
 <p align="center">
+  <strong>长期更新 · 真实可用 · 免费整理</strong><br>
+  汇总主流机场 / VPN 的最新优惠码、折扣活动与限时促销
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/hotseo123/jichangtizi-youhuima?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/hotseo123/jichangtizi-youhuima?style=flat-square" />
+  <img src="https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima?style=flat-square" />
+</p>
+
+<p align="center">
    <img width="1440" height="180" alt="2026最新机场梯子优惠码汇总" src="https://github.com/user-attachments/assets/bf3db306-3b8b-41c5-987a-4e9d90f182df" />
 </p>
 
@@ -76,8 +87,13 @@
 📌 本仓库整理 **当前仍可用的机场 / 梯子优惠码与活动信息**
 适合想先试用、少踩坑、尽量省钱的用户参考。最后为什么列表还会有过期的优惠码，因为由于优惠码过期的时间可能会有差异，时间截止了但是还能用，可以试下，后面会确认下无效才会彻底删除。
 
+⚠️ 提醒：  
+机场服务稳定性无法保证，建议 **先月付或试用**，理性选择。
+
+⚠️ 免责声明
+本仓库只是个人整理的优惠信息备忘录，不提供任何代理或 VPN 服务。所有内容请以机场官方说明为准，是否使用、如何使用请自行判断并承担相应风险。请务必遵守当地法律法规。
+
 ⭐ 如果这个仓库帮你省过一次钱，欢迎点个Star  
 🔔 Star后GitHub会在有更新时提醒你，不容易错过新优惠
 
-⚠️ 提醒：  
-机场服务稳定性无法保证，建议 **先月付或试用**，理性选择。
+
