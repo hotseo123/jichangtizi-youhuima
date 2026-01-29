@@ -4,14 +4,16 @@
 
 <p align="center">
   <strong>长期更新 · 真实可用 · 免费整理</strong><br>
-  汇总主流机场 / VPN 的最新优惠码、折扣活动与限时促销
+  汇总主流机场/VPN的最新优惠码、折扣活动与限时促销
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/hotseo123/jichangtizi-youhuima?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/hotseo123/jichangtizi-youhuima?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/hotseo123/jichangtizi-youhuima?style=flat-square" />
-   ![License](https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima?style=flat-square)
+  <img src="https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima?style=flat-square" />
 </p>
+
 
 <p align="center">
    <img width="1440" height="180" alt="2026最新机场梯子优惠码汇总" src="https://github.com/user-attachments/assets/bf3db306-3b8b-41c5-987a-4e9d90f182df" />
@@ -95,6 +97,10 @@
 
 ⚠️ 免责声明 <br >
 本仓库只是个人整理的优惠信息备忘录，不提供任何代理或 VPN 服务。所有内容请以机场官方说明为准，是否使用、如何使用请自行判断并承担相应风险。请务必遵守当地法律法规。
+
+## 📄 许可证
+
+本仓库基于 MIT License 开源，欢迎自由使用与分享。
 
 ⭐ 如果这个仓库帮你省过一次钱，欢迎点个Star  
 🔔 Star后GitHub会在有更新时提醒你，不容易错过新优惠
