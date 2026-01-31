@@ -30,6 +30,7 @@
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
+| BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
