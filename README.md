@@ -1,4 +1,4 @@
-# 2026年2月最新机场梯子优惠码汇总 - 最低享45折优惠！
+# 2026年2月最新机场梯子优惠码汇总 - 新春特惠最低享45折优惠！
 
 一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年2月，金马来袭，各大机场都开始年底促销，有需要的朋友可以关注下，部分机场加上之前的站内活动叠加，最低至48折! 本仓库会每个月都会及时更新，当前最高享48折优惠，最低享9折优惠，持续整理和更新各大机场（翻墙服务商）的最新优惠活动与优惠码，也同时会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
@@ -34,6 +34,8 @@
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
+| BigME.Pro大米机场 | `xinnian666` | 2026年2月20日 | 年付套餐8折优惠 | 新年活动 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
+| 精靈學院机场 | `xinnian666` | 2026年2月20日 | 年付套餐8折优惠  | 新年活动开启| [点击直达官网](https://jump.riolu.work/register?aff=Yf1k6fe1) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
@@ -88,6 +90,7 @@
 
 
 ## 优惠码更新记录
+- 2026-02-07: 新增[精靈學院机场新春优惠活动](https://jump.riolu.work/register?aff=Yf1k6fe1)年付套餐8折优惠码`xinnian666`
 - 2026-02-03: 新增[奈云机场新春2月优惠活动](https://www.v2ny.com/#/register?code=pXP6CaiD)全场75折优惠码`0101`
 - 2026-02-01: 
   - 删除过期机场优惠码
