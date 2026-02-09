@@ -45,7 +45,7 @@
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 扬帆云   | - | 长期有效| 7折 | 无需优惠码，年付7折自动抵扣 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 扬帆云   | 618 | 长期有效| 7折 | 年付7折 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，此优惠码每账号只限使用一次！| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 
