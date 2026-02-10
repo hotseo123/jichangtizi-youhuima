@@ -96,6 +96,8 @@
   - 删除过期机场优惠码
   - 新增[大米机场](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)`happy90%`9折优惠码
   - 新增[CyberGuard机场2月优惠活动](https://www.cyberguard.best/#/register?code=kEVKDdQ0)
+ 
+<img src="https://komarev.com/ghpvc/?username=hotseo123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 ## 👉 最后
 
