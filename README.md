@@ -24,7 +24,9 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
-| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://a05.fcvipaffa05.cc/register?aff=q0NtEJIF)| 
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
+| 肥猫云  | `newyear202685` | 2026年3月15 | 85折   | 2026年春节大促：月付、季度、半年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
+| 肥猫云  | `newyear202680` | 2026年3月15 | 8折   | 2026年春节大促：年付、2年付、3年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `0217` | 2026年03月03日| 全场75折 | 春节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
@@ -95,7 +97,8 @@
 
 
 ## 优惠码更新记录
-- 2026-02-07： 新增5个机场新年活动优惠码
+- 2026-02-13：[肥猫云机](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)场2026年春节大促
+- 2026-02-07：新增5个机场新年活动优惠码
 - 2026-02-07: 新增[精靈學院机场新春优惠活动](https://jump.riolu.work/register?aff=Yf1k6fe1)年付套餐8折优惠码`xinnian666`
 - 2026-02-03: 新增[奈云机场新春2月优惠活动](https://www.v2ny.com/#/register?code=pXP6CaiD)全场75折优惠码`0101`
 - 2026-02-01: 
