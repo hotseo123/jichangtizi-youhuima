@@ -55,6 +55,9 @@
 | 鹿语云机场 | `newyear8` | 2026年2月28号 | 年付8折  | 鹿语云春节活动 | [点击直达官网](https://luyuyun.com/#/register?code=CzH1u5XD) |
 | 鹿语云机场 | `newyear85` | 2026年2月28号 | 月/季/半年付85折  | 鹿语云春节活动 | [点击直达官网](https://luyuyun.com/#/register?code=CzH1u5XD) |
 | 乌龟加速机场 | `乌龟2026` | 2026年2月23号 | 🎁 全场套餐8折优惠  | 春节活动 | [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
+| 飞鸟机场 | `fbcj2685` | 2026年3月08 | 月/季/半年付 85折,可重复使用5次  | 飞鸟春节活动开启 | [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
+| 飞鸟机场 | `fbcj2680` | 2026年3月08 | 年付8折（站内折上折，高达64折 ） | 飞鸟春节活动开启 | [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
+| 赔钱机场 | `新年快乐` | 2026年2月28 | 七折  | 赔钱机场春节优惠活动 | [点击直达官网](https://xn--cp3a08l.com/register?code=RJXPmRBE) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -97,6 +100,7 @@
 
 
 ## 优惠码更新记录
+- 2026-02-15:  新增飞鸟机场和赔钱机场新春优惠活动
 - 2026-02-13：[肥猫云机](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)场2026年春节大促
 - 2026-02-07：新增5个机场新年活动优惠码
 - 2026-02-07: 新增[精靈學院机场新春优惠活动](https://jump.riolu.work/register?aff=Yf1k6fe1)年付套餐8折优惠码`xinnian666`
