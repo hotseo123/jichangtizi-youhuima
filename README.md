@@ -33,6 +33,7 @@
 | CyberGuard | `CGYEAR2026` | 2026年2月28日 | 2月特惠年付方案全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `CGFEB90` | 2026年2月28日 | 2月特惠月付/季付/半年付全场9折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
+| 雪橇云机场 | `SledCloud2026` | 2026年2月28日 | 全场8折 | 新春优惠活动 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
@@ -100,7 +101,8 @@
 
 
 ## 优惠码更新记录
-- 2026-02-15:  新增飞鸟机场和赔钱机场新春优惠活动
+- 2026-02-17: 新增[雪橇云机场](https://cloud.sleddc9.com/#/register?code=TkO6RxBp)新春8折优惠码
+- 2026-02-15: 新增飞鸟机场和赔钱机场新春优惠活动
 - 2026-02-13：[肥猫云机](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)场2026年春节大促
 - 2026-02-07：新增5个机场新年活动优惠码
 - 2026-02-07: 新增[精靈學院机场新春优惠活动](https://jump.riolu.work/register?aff=Yf1k6fe1)年付套餐8折优惠码`xinnian666`
