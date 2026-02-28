@@ -99,7 +99,7 @@
 
 
 ## 优惠码更新记录
-- 2026-02-17: 删除更新无效的优惠码
+- 2026-02-26: 删除更新无效的优惠码
 - 2026-02-17: 新增[雪橇云机场](https://cloud.sleddc9.com/#/register?code=TkO6RxBp)新春8折优惠码
 - 2026-02-15: 新增飞鸟机场和赔钱机场新春优惠活动
 - 2026-02-13：[肥猫云机](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)场2026年春节大促
