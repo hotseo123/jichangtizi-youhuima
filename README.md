@@ -28,7 +28,7 @@
 | 肥猫云  | `newyear202685` | 2026年3月15 | 85折   | 2026年春节大促：月付、季度、半年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
 | 肥猫云  | `newyear202680` | 2026年3月15 | 8折   | 2026年春节大促：年付、2年付、3年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| 奈云机场 | `0217` | 2026年03月03日| 全场75折 | 春节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `MARCHYEAR25` | 2026年3月31日 | 3月特惠年付方案全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `MARCH10CG` | 2026年3月31日 | 3月特惠月付/季付/半年付全场9折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
@@ -42,6 +42,8 @@
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://qingyunti.pro/register?aff=hZe1CXIo) |
+| 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://lanfanz.cc/portal/register?code=yk3V) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
@@ -51,12 +53,8 @@
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
-| 闪电猫机场 | `202680sc` | 2026年2月28号 | 全场8折 | 新年8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
-| 鹿语云机场 | `newyear8` | 2026年2月28号 | 年付8折  | 鹿语云春节活动 | [点击直达官网](https://luyuyun.com/#/register?code=CzH1u5XD) |
-| 鹿语云机场 | `newyear85` | 2026年2月28号 | 月/季/半年付85折  | 鹿语云春节活动 | [点击直达官网](https://luyuyun.com/#/register?code=CzH1u5XD) |
-| 赔钱机场 | `新年快乐` | 2026年2月28 | 七折  | 赔钱机场春节优惠活动 | [点击直达官网](https://xn--cp3a08l.com/register?code=RJXPmRBE) |
-| 雪橇云机场 | `SledCloud2026` | 2026年2月28日 | 全场8折 | 新春优惠活动 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
-| BigME.Pro大米机场 | `xinnian666` | 2026年2月28日 | 年付套餐8折优惠 | 新年活动 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
+| 闪电猫机场 | 无需优惠码 | 2026年2月28号 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
+
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
@@ -98,6 +96,7 @@
 
 
 ## 优惠码更新记录
+- 2026-03-04: 删掉新年过期优惠活动，新增奈云机场/青云梯机场/蓝帆云机场优惠码
 - 2026-03-02: 新增Cybergurad机场3月优惠活动
 - 2026-03-01: 删除过期的优惠活动码，由于时差原因部分优惠码还可能使用，将逐渐删除
 - 2026-02-26: 删除更新无效的优惠码
