@@ -42,7 +42,7 @@
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://qingyunti.pro/register?aff=hZe1CXIo) |
+| 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
 | 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://lanfanz.cc/portal/register?code=yk3V) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
