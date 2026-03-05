@@ -53,7 +53,7 @@
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
-| 闪电猫机场 | 无需优惠码 | 2026年2月28号 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
+| 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
