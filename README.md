@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/github/forks/hotseo123/jichangtizi-youhuima?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/hotseo123/jichangtizi-youhuima?style=flat-square" />
   <img src="https://img.shields.io/github/license/hotseo123/jichangtizi-youhuima" />
+  <img src="https://komarev.com/ghpvc/?username=hotseo123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 
@@ -112,8 +113,7 @@
   - 删除过期机场优惠码
   - 新增[大米机场](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd)`happy90%`9折优惠码
   - 新增[CyberGuard机场2月优惠活动](https://www.cyberguard.best/#/register?code=kEVKDdQ0)
- 
-<img src="https://komarev.com/ghpvc/?username=hotseo123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 
 ## 👉 最后
 
