@@ -30,6 +30,7 @@
 | 肥猫云  | `newyear202680` | 2026年3月15 | 8折   | 2026年春节大促：年付、2年付、3年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | CyberGuard | `MARCHYEAR25` | 2026年3月31日 | 3月特惠年付方案全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `MARCH10CG` | 2026年3月31日 | 3月特惠月付/季付/半年付全场9折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
@@ -98,6 +99,7 @@
 
 
 ## 优惠码更新记录
+- 2026-03-14: 新增奈云机场新人9折首次优惠
 - 2026-03-10: 新增唯兔云专线机场新人9折首次优惠
 - 2026-03-04: 删掉新年过期优惠活动，新增奈云机场/青云梯机场/蓝帆云机场优惠码
 - 2026-03-02: 新增Cybergurad机场3月优惠活动
