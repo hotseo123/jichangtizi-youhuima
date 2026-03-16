@@ -50,13 +50,11 @@
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | 618 | 长期有效| 7折 | 年付7折 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| 飞鸟机场 | `fbcj2685` | 2026年3月08 | 月/季/半年付 85折,可重复使用5次  | 飞鸟春节活动开启 | [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
-| 飞鸟机场 | `fbcj2680` | 2026年3月08 | 年付8折（站内折上折，高达64折 ） | 飞鸟春节活动开启 | [点击直达官网](https://fbinv02.fbaff.cc/auth/register?code=iVeb5ZJC) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
-| 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://wwww2.onlyrabbit02.sbs/#/?code=ujH5da25) |
+| 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://jackiszing.vipaff.cc/#/?code=ujH5da25) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -99,6 +97,7 @@
 
 
 ## 优惠码更新记录
+- 2026-03-16: 去掉过期飞鸟机场的优惠活动和更新唯兔云专线机场链接
 - 2026-03-14: 新增奈云机场新人9折首次优惠
 - 2026-03-10: 新增唯兔云专线机场新人9折首次优惠
 - 2026-03-04: 删掉新年过期优惠活动，新增奈云机场/青云梯机场/蓝帆云机场优惠码
