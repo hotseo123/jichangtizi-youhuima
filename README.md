@@ -53,7 +53,7 @@
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
-| U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网]([https://go2lk.pages.dev/hbep8f](https://go2lk.pages.dev/h8aqzv)) |
+| U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
