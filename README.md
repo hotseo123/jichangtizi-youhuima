@@ -25,9 +25,7 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
-| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
-| 肥猫云  | `newyear202685` | 2026年3月15 | 85折   | 2026年春节大促：月付、季度、半年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
-| 肥猫云  | `newyear202680` | 2026年3月15 | 8折   | 2026年春节大促：年付、2年付、3年付            | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)| 
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
@@ -55,7 +53,7 @@
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
-
+| U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网]([https://go2lk.pages.dev/hbep8f](https://go2lk.pages.dev/h8aqzv)) |
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
@@ -97,6 +95,7 @@
 
 
 ## 优惠码更新记录
+- 2026-03-17: 新增U1S1专线机场新用户85优惠码
 - 2026-03-16: 去掉过期飞鸟机场的优惠活动和更新唯兔云专线机场链接
 - 2026-03-14: 新增奈云机场新人9折首次优惠
 - 2026-03-10: 新增唯兔云专线机场新人9折首次优惠
