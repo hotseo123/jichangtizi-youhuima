@@ -1,6 +1,6 @@
 # 2026年3月最新机场梯子优惠码汇总 - 最高可享45折优惠！
 
-一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年3月，新年大促活动已经结束，当前机场的活动都是每月的拉新活动或者站点促销活动，新用户的折扣力度比较大，有需要的朋友可以关注下，部分机场加上之前的站内活动叠加，最高可享受至45折! 本仓库会每个月都会及时更新，当前最高可享45折优惠，最低享9折优惠，持续整理和更新各大机场（翻墙服务商）的最新优惠活动与优惠码，也同时会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
+一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年4月，当前机场的活动都是每月的拉新活动或者站点促销活动，新用户的折扣力度比较大，有需要的朋友可以关注下，部分机场加上之前的站内活动叠加，最高可享受至45折! 本仓库会每周都会及时更新，会定期进入机场官网查查看促销活动和节点情况，踢掉有跑路风险的机场，当前最高可享45折优惠，最低享9折优惠，持续整理和更新各大机场（翻墙服务商）的最新优惠活动与优惠码，也同时会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
 <p align="center">
   <strong>长期更新 · 真实可用 · 免费整理</strong><br>
@@ -27,10 +27,7 @@
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| CyberGuard | `MARCHYEAR25` | 2026年3月31日 | 3月特惠年付方案全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| CyberGuard | `MARCH10CG` | 2026年3月31日 | 3月特惠月付/季付/半年付全场9折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
@@ -56,6 +53,9 @@
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| CyberGuard | `MARCHYEAR25` | 2026年3月31日 | 3月特惠年付方案全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| CyberGuard | `MARCH10CG` | 2026年3月31日 | 3月特惠月付/季付/半年付全场9折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -98,6 +98,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-01: 调整过期机场促销优惠码
 - 2026-03-26: 新增TNTCloud新人特惠85折优惠码
 - 2026-03-21: 新增尔湾云机场年付7折优惠码
 - 2026-03-17: 新增U1S1专线机场新用户85优惠码
