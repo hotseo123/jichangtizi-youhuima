@@ -25,7 +25,6 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
-| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 | CyberGuard | `YEAR25APRIL` | 2026年4月30日 | 年付方案：全场 75 折 (25% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `10CGAPRIL` | 2026年4月30日 | 月付/季付/半年付：全场 9 折 (10% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `AP200RIL` | 2026年4月30日 | 不限时流量包200G 尝鲜包：立享9折优惠 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
@@ -57,6 +56,7 @@
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
