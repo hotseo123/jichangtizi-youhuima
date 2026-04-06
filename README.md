@@ -30,6 +30,7 @@
 | CyberGuard | `AP200RIL` | 2026年4月30日 | 不限时流量包200G 尝鲜包：立享9折优惠 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
@@ -55,8 +56,8 @@
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场75折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://jacszing.fcvipaff.cc/register?aff=q0NtEJIF)|
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -99,6 +100,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-06: 新增哆啦A梦新人注册8折优惠码
 - 2026-04-02: 新增CyberGuard 4月福利优惠码
 - 2026-03-26: 新增TNTCloud新人特惠85折优惠码
 - 2026-03-21: 新增尔湾云机场年付7折优惠码
