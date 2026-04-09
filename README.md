@@ -57,7 +57,6 @@
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场75折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 奈云机场 | `0308` | 2026年03月31日| 全场75折 | 妇女节优惠活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -100,6 +99,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-09: 删除3月奈云机场过期的优惠活动码
 - 2026-04-06: 新增哆啦A梦新人注册8折优惠码
 - 2026-04-02: 新增CyberGuard 4月福利优惠码
 - 2026-03-26: 新增TNTCloud新人特惠85折优惠码
