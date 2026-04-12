@@ -56,7 +56,8 @@
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
-| 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场75折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
+| 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
+| 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -99,6 +100,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-12: 新增哆啦A梦半年/年付6折新人券优惠码
 - 2026-04-09: 删除3月奈云机场过期的优惠活动码
 - 2026-04-06: 新增哆啦A梦新人注册8折优惠码
 - 2026-04-02: 新增CyberGuard 4月福利优惠码
