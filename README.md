@@ -54,7 +54,8 @@
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
-| 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `year69` | 长期有效 | 69折 | 年付额外69折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
@@ -100,6 +101,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-15: 更新尔湾云机场年付优惠码
 - 2026-04-12: 新增哆啦A梦半年/年付6折新人券优惠码
 - 2026-04-09: 删除3月奈云机场过期的优惠活动码
 - 2026-04-06: 新增哆啦A梦新人注册8折优惠码
