@@ -48,7 +48,7 @@
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | 618 | 长期有效| 7折 | 年付7折 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| 扬帆云   | yf69 | 长期有效| 71折 | 两年付6.9折优惠码 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 扬帆云   | yf69 | 长期有效| 69折 | 两年付6.9折优惠码 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
@@ -57,6 +57,7 @@
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 | 尔湾云机场 | `year69` | 长期有效 | 69折 | 年付额外69折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
@@ -102,6 +103,7 @@
 
 
 ## 优惠码更新记录
+- 2026-04-15: 更新尔湾云机场3年付优惠码
 - 2026-04-20: 新增扬帆云两年付71折优惠码
 - 2026-04-15: 更新尔湾云机场年付优惠码
 - 2026-04-12: 新增哆啦A梦半年/年付6折新人券优惠码
