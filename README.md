@@ -43,7 +43,7 @@
 | 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
-| 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://lanfanz.cc/portal/register?code=yk3V) |
+| 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://go2lk.pages.dev/6t7yf3) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
@@ -103,7 +103,7 @@
 
 
 ## 优惠码更新记录
-- 2026-04-15: 更新尔湾云机场3年付优惠码
+- 2026-04-26: 更新蓝帆云机场官网链接
 - 2026-04-20: 新增扬帆云两年付71折优惠码
 - 2026-04-15: 更新尔湾云机场年付优惠码
 - 2026-04-12: 新增哆啦A梦半年/年付6折新人券优惠码
