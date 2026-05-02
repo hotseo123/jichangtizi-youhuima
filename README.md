@@ -1,4 +1,4 @@
-# 2026年5月最新机场梯子优惠码汇总 - 最高可享45折优惠！
+# 2026年5月最新机场梯子优惠码汇总 - 五一优惠活动来了，最高可享45折优惠！
 
 一个最新机场梯子VPN优惠码汇总合集，已经更新到2026年5月，五一优惠活动来了，加上机场每月的拉新活动或者站点促销活动，新用户的折扣力度比较大，有需要的朋友可以关注下，部分机场加上之前的站内活动叠加，最高可享受至45折! 本仓库会每周都会及时更新，会定期进入机场官网查查看促销活动和节点情况，踢掉有跑路风险的机场，当前最高可享45折优惠，最低享9折优惠，持续整理和更新各大机场（翻墙服务商）的最新优惠活动与优惠码，也同时会和各大机场主联系争取长期的优惠福利，帮助大家省钱入手优质的科学上网服务。 
 
@@ -29,9 +29,7 @@
 | 疾风云   | `jff5165`| 2026年5月8日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | yf5169 | 2026年5月8日| 69折 | 年付6.9折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 扬帆云   | yf5165 | 2026年5月8日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| CyberGuard | `YEAR25APRIL` | 2026年4月30日 | 年付方案：全场 75 折 (25% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| CyberGuard | `10CGAPRIL` | 2026年4月30日 | 月付/季付/半年付：全场 9 折 (10% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| CyberGuard | `AP200RIL` | 2026年4月30日 | 不限时流量包200G 尝鲜包：立享9折优惠 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| 赔钱机场   | `劳动节快乐` | 2026年5月6日| 7折 | 全场七折优惠码| [点击直达官网](https://go2lk.pages.dev/53mwny) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
@@ -65,6 +63,9 @@
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
+| CyberGuard | `YEAR25APRIL` | 2026年4月30日 | 年付方案：全场 75 折 (25% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| CyberGuard | `10CGAPRIL` | 2026年4月30日 | 月付/季付/半年付：全场 9 折 (10% OFF) | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| CyberGuard | `AP200RIL` | 2026年4月30日 | 不限时流量包200G 尝鲜包：立享9折优惠 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -107,7 +108,8 @@
 
 
 ## 优惠码更新记录
-- 2026-05-01: 更新五一优惠活动
+- 2026-05-01: 新增赔钱机场五一优惠活动
+- 2026-05-01: 新增疾风云和扬帆云机场五一优惠活动
 - 2026-04-26: 更新蓝帆云机场官网链接
 - 2026-04-20: 新增扬帆云两年付71折优惠码
 - 2026-04-15: 更新尔湾云机场年付优惠码
