@@ -26,10 +26,10 @@
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
 | 奈云机场 | `welcome` | 本月有效| 全场8折 | 🎁 回归专属 8 折优惠码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| 疾风云   | `jf5169` | 2026年5月8日| 69折 | 年付6.9折，五一专属优惠码| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云   | `jff5165`| 2026年5月8日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 扬帆云   | yf5169 | 2026年5月8日| 69折 | 年付6.9折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| 扬帆云   | yf5165 | 2026年5月8日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 疾风云   | `jf5169` | 2026年5月15日| 69折 | 年付6.9折，五一专属优惠码| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云   | `jff5165`| 2026年5月15日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 扬帆云   | yf5169 | 2026年5月15日| 69折 | 年付6.9折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 扬帆云   | yf5165 | 2026年5月15日| 65折 | 两年付6.5折，五一专属优惠码| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
