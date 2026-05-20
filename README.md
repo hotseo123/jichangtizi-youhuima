@@ -49,8 +49,6 @@
 | 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
 | 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://go2lk.pages.dev/6t7yf3) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| 疾风云机场  | `JF1111` |2026年12月31号 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云机场  | `JF888` |2026年12月31号 | 9折优惠 | 半年9折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | 618 | 长期有效| 7折 | 年付7折 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 扬帆云   | yf69 | 长期有效| 69折 | 两年付6.9折优惠码 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
