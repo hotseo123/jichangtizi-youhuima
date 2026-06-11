@@ -62,6 +62,8 @@
 | 疾风云   | `jff5165`| 2026年6月20日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | yf5169 | 2026年6月20日| 69折 | 年付6.9折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 扬帆云   | yf5165 | 2026年6月20日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| ENET机场   | `enet2026` | 2026年6月15日| 8折 | 常规套餐 8 折| [点击直达官网](https://go2lk.pages.dev/wwb6z2) |
+
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
 
