@@ -24,7 +24,7 @@
 
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
-| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.club/aff.php?aff=17788) |
+| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.org/aff.php?aff=17788) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `无优惠码` | 6月限时福利 | 所有周期套餐流量×2 | 月付、季付、半年付、年付均可参与，购买后自动享受，无需额外申请 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
