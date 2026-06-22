@@ -32,7 +32,6 @@
 | 奈云机场 | `welcome` | 本月有效| 全场8折 | 🎁 回归专属 8 折优惠码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| 赔钱机场  | `端午` | 2026年6月21日 | 75折   | 全场套餐适用，端午优惠活动       | [官网直达链接](https://go2lk.pages.dev/53mwny)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
@@ -64,6 +63,7 @@
 | 扬帆云   | yf5169 | 2026年6月20日| 69折 | 年付6.9折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | 扬帆云   | yf5165 | 2026年6月20日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 | ENET机场   | `enet2026` | 2026年6月23日| 8折 | 端午八折优惠| [点击直达官网](https://go2lk.pages.dev/wwb6z2) |
+| 赔钱机场  | `端午` | 2026年6月21日 | 75折   | 全场套餐适用，端午优惠活动       | [官网直达链接](https://go2lk.pages.dev/53mwny)|
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
