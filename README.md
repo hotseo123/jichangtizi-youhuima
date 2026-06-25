@@ -56,13 +56,11 @@
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 疾风云   | `JF888` | 2026年6月20日| 9折 | 半年套餐9折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云   | `jf5169` | 2026年6月20日| 69折 | 年付6.9折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云   | `jff5165`| 2026年6月20日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 扬帆云   | yf5169 | 2026年6月20日| 69折 | 年付6.9折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| 扬帆云   | yf5165 | 2026年6月20日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| ENET机场   | `enet2026` | 2026年6月23日| 8折 | 端午八折优惠| [点击直达官网](https://go2lk.pages.dev/wwb6z2) |
-| 赔钱机场  | `端午` | 2026年6月21日 | 75折   | 全场套餐适用，端午优惠活动       | [官网直达链接](https://go2lk.pages.dev/53mwny)|
+| 疾风云   | `JF888` | 2026年6月28日| 9折 | 半年套餐9折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云   | `jf5169` | 2026年6月28日| 69折 | 年付6.9折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云   | `jff5165`| 2026年6月28日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 扬帆云   | yf5169 | 2026年6月28日| 69折 | 年付6.9折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
+| 扬帆云   | yf5165 | 2026年6月28日| 65折 | 两年付6.5折，618大促| [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大靠谱优质稳定机场](https://github.com/hotseo123/shida-jichang-tuijian)。
