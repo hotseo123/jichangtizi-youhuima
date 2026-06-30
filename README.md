@@ -56,9 +56,9 @@
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 疾风云   | `JF888` | 2026年6月30日| 9折 | 半年套餐9折| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云   | `jf5169` | 2026年6月30日| 69折 | 年付6.9折| [点击直达官网](https://jif637.net?code=Vtgm) |
-| 疾风云   | `jff5165`| 2026年6月30日| 65折 | 两年付6.5折| [点击直达官网](https://jif637.net?code=Vtgm) |
+| 疾风云   | `JF888` | 2026年6月30日| 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云   | `jf5169` | 2026年6月30日| 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云   | `jff5165`| 2026年6月30日| 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 扬帆云   | yf5169 | 2026年6月30日| 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 | 扬帆云   | yf5165 | 2026年6月30日| 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 
