@@ -34,9 +34,6 @@
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | 精靈學院机场 | `New2025` | 长期有效 | 九五折优惠  | 季付 半年付 年付可用（不限时套餐不适用于此优惠代码，无法和充值一起使用） | [点击直达官网](https://go2lk.pages.dev/5ww7z6) |
-| 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
-| 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
-| 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
@@ -54,6 +51,9 @@
 | 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
+| 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 疾风云   | `JF888` | 2026年6月30日| 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
