@@ -51,7 +51,7 @@
 | 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
-| 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://www.v2ny.com/#/register?code=pXP6CaiD) |
+| 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
