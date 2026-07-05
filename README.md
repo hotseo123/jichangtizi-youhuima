@@ -26,7 +26,6 @@
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.org/aff.php?aff=17788) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| CyberGuard | `无优惠码` | 6月限时福利 | 所有周期套餐流量×2 | 月付、季付、半年付、年付均可参与，购买后自动享受，无需额外申请 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
@@ -56,11 +55,11 @@
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 疾风云   | `JF888` | 2026年6月30日| 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云   | `jf5169` | 2026年6月30日| 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云   | `jff5165`| 2026年6月30日| 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 扬帆云   | yf5169 | 2026年6月30日| 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
-| 扬帆云   | yf5165 | 2026年6月30日| 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 疾风云   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云   | `jf5169` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云   | `jff5165`| 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 扬帆云   | yf5169 | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 扬帆云   | yf5165 | 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大性价比机场推荐](https://github.com/hotseo123/shida-jichang-tuijian)。
@@ -104,6 +103,7 @@
   网上推荐机场的内容很多，机场好不好是有试一试才知道。
 
 ## 优惠码更新记录
+- 2026-07-05: 更新Cyberguard机场、奈云机场、疾风云机场信息
 - 2026-06-14: 更新端午节优惠码信息
 - 2026-06-03: 更新疾风云优惠信息
 - 2026-05-07: 下线赔钱机场五一优惠活动
