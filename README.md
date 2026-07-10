@@ -54,6 +54,7 @@
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
+| 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 疾风云   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
