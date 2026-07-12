@@ -26,9 +26,11 @@
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.org/aff.php?aff=17788) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
+| 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
+| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
@@ -36,10 +38,8 @@
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
 | 扬帆云   | `clashx.cc` | 长期有效| 7折 | 年费7.0折优惠 | [点击直达官网](https://yawtt.net/register?code=4wm6DEpz) |
-| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
 | 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐| [点击直达官网](https://go2lk.pages.dev/6t7yf3) |
-| WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
 | 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
 | 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买输入此优惠码，即可享受 8.8折优惠！此优惠码每账号只限使用一次| [点击直达官网](https://candy5s.com/web/#/login?code=PdEHB6o2) |
