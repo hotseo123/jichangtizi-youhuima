@@ -31,9 +31,9 @@
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折优惠 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
-| 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
+| 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次| [点击直达官网](https://hongxingyun.club/web/#/login?code=QhIuhCJV) |
 | 精靈學院机场 | `New2025` | 长期有效 | 九五折优惠  | 季付 半年付 年付可用（不限时套餐不适用于此优惠代码，无法和充值一起使用） | [点击直达官网](https://go2lk.pages.dev/5ww7z6) |
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买| [点击直达官网](https://wuguijiasuqi.com/#/login?code=p0j6YGFQ) |
 | 疾风云机场  | `clashx.cc` | 长期有效 | 7折优惠 | 年费7.0折优惠| [点击直达官网](https://jif637.net?code=Vtgm) |
