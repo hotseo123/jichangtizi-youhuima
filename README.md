@@ -55,13 +55,16 @@
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
-| 哆啦A梦 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 哆啦A梦 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 疾风云   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云   | `jf5169` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云   | `jff5165`| 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 扬帆云   | yf5169 | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
-| 扬帆云   | yf5165 | 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 哆啦A梦机场 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
+| 哆啦A梦机场 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
+| 疾风云机场   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场   | `jf5169` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场   | `jff5165`| 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 扬帆云机场   | yf5169 | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 扬帆云机场   | yf5165 | 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 狗狗加速   | `-` | 长期有效 | 1G试用 | 新用户| [点击直达官网](https://go2lk.pages.dev/rkneea) |
+
+
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大性价比机场推荐](https://github.com/hotseo123/shida-jichang-tuijian)。
 
