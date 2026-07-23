@@ -50,7 +50,6 @@
 | 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
-| 奈云机场 | `RENEW_NAIUN_ONE` | 2026.07.20 | 每位用户限一次，六折 | 可用于新购、续费，全部套餐可用| [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `clashx.cc` | 长期有效| 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
