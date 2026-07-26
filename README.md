@@ -58,8 +58,9 @@
 | 疾风云机场   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 疾风云机场   | `jf5169` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 疾风云机场   | `jff5165`| 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 扬帆云机场   | yf5169 | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
-| 扬帆云机场   | yf5165 | 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 扬帆云机场   | `yf6189` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 扬帆云机场   | `yf6185` | 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
+| 扬帆云机场   | `lucky9` | 长期有效 | 9折 | 半年付| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 | 狗狗加速机场  | `-` | 长期有效 | 1G试用 | 新用户| [点击直达官网](https://go2lk.pages.dev/rkneea) |
 | SSRDOG机场   | `-` | 长期有效 | 3G试用 | 新用户| [点击直达官网](https://go2lk.pages.dev/5bg49h) |
 
