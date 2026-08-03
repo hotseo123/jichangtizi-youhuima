@@ -24,11 +24,11 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 |--------|--------|----------|----------|------|------|
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://order.yizhihongxing.org/aff.php?aff=17788) |
+| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `AUG200Y` | 8月底 | 9折 | 220G不限时流量包套餐 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `YEAR26AUG` | 8月底 | 75折 | 年付套餐优惠 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `08CGAUG` | 8月底 | 9折 | 月付/季付/半年付优惠  | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
-| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折优惠 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
@@ -105,6 +105,7 @@
   网上推荐机场的内容很多，机场好不好是有试一试才知道。
 
 ## 优惠码更新记录
+- 2026-08-03: 更新Cyberguard机场信息
 - 2026-07-05: 更新Cyberguard机场、奈云机场、疾风云机场信息
 - 2026-06-14: 更新端午节优惠码信息
 - 2026-06-03: 更新疾风云优惠信息
