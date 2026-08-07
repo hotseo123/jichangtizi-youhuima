@@ -62,7 +62,7 @@
 | 扬帆云机场   | `lucky9` | 长期有效 | 9折 | 半年付| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 | 狗狗加速机场  | `-` | 长期有效 | 1G试用 | 新用户| [点击直达官网](https://go2lk.pages.dev/rkneea) |
 | SSRDOG机场   | `-` | 长期有效 | 3G试用 | 新用户| [点击直达官网](https://go2lk.pages.dev/5bg49h) |
-| 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
+| 青云梯机场 | `clashx.cc` | 长期有效 | 85折优惠码 | 全场套餐，新老顾客都适用【工单客服不回慎购】 | [点击直达官网](https://jackiszing.qytvipaff.cc/register?aff=hZe1CXIo) |
 
 如果你还不知道使用那个机场比较好，可以看[2026年十大性价比机场推荐](https://github.com/hotseo123/shida-jichang-tuijian)。
 
