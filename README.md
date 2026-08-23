@@ -56,9 +56,9 @@
 | 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦机场 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦机场 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
-| 疾风云机场   | `JF888` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云机场   | `jf5169` | 长期有效 | 69折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云机场   | `jff5165`| 长期有效 | 65折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场   | `halfyear9` | 长期有效 | 9折 | 半年套餐9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场   | `1year79` | 长期有效 | 7.9折 | 年付6.9折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场   | `2years7`| 长期有效 | 7折 | 两年付6.5折| [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 扬帆云机场   | `1year79` | 长期有效 | 7.9折 | 年付7.9折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 | 扬帆云机场   | `2years7` | 长期有效 | 7折 | 两年付7折| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
 | 扬帆云机场   | `halfyear9` | 长期有效 | 9折 | 半年付| [点击直达官网](https://ml.yfqz1.net/register?code=4wm6DEpz) |
