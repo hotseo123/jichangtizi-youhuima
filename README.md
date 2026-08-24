@@ -30,7 +30,7 @@
 | CyberGuard | `YEAR26AUG` | 8月底 | 75折 | 年付套餐优惠 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `08CGAUG` | 8月底 | 9折 | 月付/季付/半年付优惠  | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
-| 赔钱机场  | `七夕` | 2026年8月25日23点59分 | 75折   | 全场适用             | [官网直达链接](https://go2lk.pages.dev/53mwny)|
+| 赔钱机场  | `七夕` | 8月25日 | 75折   | 全场适用             | [官网直达链接](https://go2lk.pages.dev/53mwny)|
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折优惠 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
