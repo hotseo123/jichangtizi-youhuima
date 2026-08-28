@@ -30,6 +30,7 @@
 | CyberGuard | `YEAR26AUG` | 8月底 | 75折 | 年付套餐优惠 | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | CyberGuard | `08CGAUG` | 8月底 | 9折 | 月付/季付/半年付优惠  | [点击直达官网](https://www.cyberguard.best/#/register?code=kEVKDdQ0) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://happy.bigmess.org/user#/register?code=DhAZ9Ytd) |
+| 奈云机场 | `clashx.cc`  | 长期有效| 全场9折 | 全场8折优惠码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 肥猫云  | `clashx.cc` | 长期有效 | 9折   | 月付/季度/半年，续费率高年付加强版除外             | [官网直达链接](https://go2lk.pages.dev/um2wxw)|
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://www.sleddc9.com/#/register?code=TkO6RxBp) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折优惠 | 新用户 | [点击直达官网](https://invite.wgetcloud.ltd/auth/register?code=PY1wlV) |
@@ -50,7 +51,6 @@
 | 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
-| 奈云机场 | `NYN9Z` | 长期有效| 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `NAIUN_MY_PARTNER` | 8月26| 8折| 七夕优惠活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦机场 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
