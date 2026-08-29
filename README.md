@@ -47,9 +47,9 @@
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://webinv03.sc-aff.cc/auth/register?code=DDB4sikh) |
 | 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折优惠码, 79年付包不支持 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折：U1S1（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
-| 尔湾云机场 | `year69` | 长期有效 | 69折 | 年付额外69折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
-| 尔湾云机场 | `2year65` | 长期有效 | 65折 | 两年付65折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
-| 尔湾云机场 | `3year60` | 长期有效 | 6折 | 三年付6折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `1year79` | 长期有效 | 79折 | 年付额外79折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `2years7` | 长期有效 | 7折 | 两年付7折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| 尔湾云机场 | `halfyear9` | 长期有效 | 9折 | 半年付9折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 奈云机场 | `NAIUN_MY_PARTNER` | 8月26| 8折| 七夕优惠活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
