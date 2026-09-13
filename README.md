@@ -54,6 +54,8 @@
 | 尔湾云机场 | `2years7` | 长期有效 | 7折 | 两年付7折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | 尔湾云机场 | `halfyear9` | 长期有效 | 9折 | 半年付9折 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
 | TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折 限量包不适用 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| TNTCloud | `tntcloud85` | 2026年9月30号 | 85折 | 月付、季度及半年套餐 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| TNTCloud | `tntcloud80` | 2026年9月30号 | 8折 | 年付、两年及三年套餐 | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 | 奈云机场 | `-` | 长期有效| 注册用户可免费领取10天/50GB套餐 | 新用户 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 哆啦A梦机场 | `NEWUSER8` | 注册后24小时| 全场8折 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
 | 哆啦A梦机场 | `NEWUSER6` | 注册后24小时| 半年/年付6折新人券 | 新人专享优惠券| [点击直达官网](https://go2lk.pages.dev/htmxct) |
